@@ -1,0 +1,18 @@
+{
+    "email":"Email",
+    "password":"Password",
+    "signIn":"Sign In",
+    "signUp":"Sign Up",
+    "haveAccount":"Already have an account?",
+    "dontHaveAccount":"Don't have an account?",
+    "id":"id",
+    "name":"Name",
+    "longitude":"Longitude",
+    "latitude":"Latitude",
+    "date":"Date",
+    "addFirebase":"Add to Firebase",
+    "update":"Update",
+    "logout":"Logout",
+    "location":"Location",
+    "options":"Options"
+}

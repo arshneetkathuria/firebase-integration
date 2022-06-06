@@ -1,0 +1,19 @@
+{
+    "email":"ईमेल",
+    "password":"पासवर्ड",
+    "signIn":"साइन इन करें",
+    "signUp":"साइन अप करें",
+    "haveAccount":"क्या आपके पास पहले से एक खाता मौजूद है?",
+    "dontHaveAccount":"खाता नहीं है?",
+    "id":"इड",
+    "name":"नाम",
+    "longitude":"देशान्तर",
+    "latitude":"अक्षांश",
+    "date":"दिनांक",
+    "addFirebase":"फायरबेस में जोड़ें",
+    "update":"अद्यतन",
+    "logout":"लॉग आउट",
+    "location":"स्थान",
+    "options":"विकल्प"
+
+}
